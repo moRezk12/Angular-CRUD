@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "rezk",
+      "lastName": "asfdf",
+      "email": "admin@gmail.com",
+      "dob": "2024-08-06T21:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "fasdf",
+      "experience": 3,
+      "package": 2443,
+      "id": 1
+    },
+    {
+      "firstName": "fasdf",
+      "lastName": "Rezk",
+      "email": "moham4@gmail.com",
+      "dob": "2024-08-04T21:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "fasdf",
+      "experience": 3,
+      "package": 34,
+      "id": 2
+    }
+  ]
+}
